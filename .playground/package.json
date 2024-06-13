@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "my-nuxt-layer": "file:../my-nuxt-layer-0.0.1.tgz"
+  }
+}
